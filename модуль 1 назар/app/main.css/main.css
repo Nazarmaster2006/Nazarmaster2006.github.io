@@ -1,0 +1,21 @@
+
+p{
+		color:yellow ;
+		font-size:50px ;
+		font-family:Arial ;
+		margin:50px ;
+		padding:0 ;
+		box-sizing:border-box ;}
+		img{max-width:100% ;
+			max-height:auto ;
+			display:block ;}
+			div{
+				width:60% ;
+				margin:auto ;
+				padding:50px ;
+				background-color:green ;
+				box-shadow:0 0 20px 4px rgba(27,44,204) ;}
+
+
+
+	
